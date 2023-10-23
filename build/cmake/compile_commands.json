@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/ZZL/AscendProjects/ShuffleNetV2Plus_MxBase/build/cmake",
+  "command": "C:\\Users\\ZZL\\AppData\\Local\\mingw64\\bin\\c++.exe -DENABLE_DVPP_INTERFACE -D_GLIBCXX_USE_CXX11_ABI=0 -Dgoogle=mindxsdk_private  --target=x86_64-pc-windows-gnu -I/lib/modelpostprocessors -I/opensource/include -I/include -I/include/MxBase/postprocess/include -std=c++11 -fPIE -fstack-protector-all -fPIC -Wall -o src\\CMakeFiles\\ShuffleNetV2Plus_MxBase.dir\\main.cpp.obj -c C:\\Users\\ZZL\\AscendProjects\\ShuffleNetV2Plus_MxBase\\src\\main.cpp",
+  "file": "C:\\Users\\ZZL\\AscendProjects\\ShuffleNetV2Plus_MxBase\\src\\main.cpp"
+},
+{
+  "directory": "C:/Users/ZZL/AscendProjects/ShuffleNetV2Plus_MxBase/build/cmake",
+  "command": "C:\\Users\\ZZL\\AppData\\Local\\mingw64\\bin\\c++.exe -DENABLE_DVPP_INTERFACE -D_GLIBCXX_USE_CXX11_ABI=0 -Dgoogle=mindxsdk_private  --target=x86_64-pc-windows-gnu -I/lib/modelpostprocessors -I/opensource/include -I/include -I/include/MxBase/postprocess/include -std=c++11 -fPIE -fstack-protector-all -fPIC -Wall -o src\\CMakeFiles\\ShuffleNetV2Plus_MxBase.dir\\Shufflenetv2plusClassify.cpp.obj -c C:\\Users\\ZZL\\AscendProjects\\ShuffleNetV2Plus_MxBase\\src\\Shufflenetv2plusClassify.cpp",
+  "file": "C:\\Users\\ZZL\\AscendProjects\\ShuffleNetV2Plus_MxBase\\src\\Shufflenetv2plusClassify.cpp"
+}
+]

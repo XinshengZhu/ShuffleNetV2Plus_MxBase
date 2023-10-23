@@ -1,0 +1,13 @@
+/tmp/e07acc1d-6661-4717-81ff-082d2ae70cf5/build/cmake-build-ascend-x86_64-linux-release/CMakeFiles/install/strip.dir
+/tmp/e07acc1d-6661-4717-81ff-082d2ae70cf5/build/cmake-build-ascend-x86_64-linux-release/CMakeFiles/install.dir
+/tmp/e07acc1d-6661-4717-81ff-082d2ae70cf5/build/cmake-build-ascend-x86_64-linux-release/CMakeFiles/install/local.dir
+/tmp/e07acc1d-6661-4717-81ff-082d2ae70cf5/build/cmake-build-ascend-x86_64-linux-release/CMakeFiles/list_install_components.dir
+/tmp/e07acc1d-6661-4717-81ff-082d2ae70cf5/build/cmake-build-ascend-x86_64-linux-release/CMakeFiles/edit_cache.dir
+/tmp/e07acc1d-6661-4717-81ff-082d2ae70cf5/build/cmake-build-ascend-x86_64-linux-release/CMakeFiles/rebuild_cache.dir
+/tmp/e07acc1d-6661-4717-81ff-082d2ae70cf5/build/cmake-build-ascend-x86_64-linux-release/src/CMakeFiles/install/strip.dir
+/tmp/e07acc1d-6661-4717-81ff-082d2ae70cf5/build/cmake-build-ascend-x86_64-linux-release/src/CMakeFiles/edit_cache.dir
+/tmp/e07acc1d-6661-4717-81ff-082d2ae70cf5/build/cmake-build-ascend-x86_64-linux-release/src/CMakeFiles/ShuffleNetV2Plus_MxBase.dir
+/tmp/e07acc1d-6661-4717-81ff-082d2ae70cf5/build/cmake-build-ascend-x86_64-linux-release/src/CMakeFiles/list_install_components.dir
+/tmp/e07acc1d-6661-4717-81ff-082d2ae70cf5/build/cmake-build-ascend-x86_64-linux-release/src/CMakeFiles/install/local.dir
+/tmp/e07acc1d-6661-4717-81ff-082d2ae70cf5/build/cmake-build-ascend-x86_64-linux-release/src/CMakeFiles/rebuild_cache.dir
+/tmp/e07acc1d-6661-4717-81ff-082d2ae70cf5/build/cmake-build-ascend-x86_64-linux-release/src/CMakeFiles/install.dir
